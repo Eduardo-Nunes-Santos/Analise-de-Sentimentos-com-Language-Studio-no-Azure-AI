@@ -1,7 +1,7 @@
 # Analise de Sentimentos com Language Studio no Azure AI 🌐
 🎯🧑‍💻Neste desafio, tive a oportunidade de aprender a realizar análise de sentimentos utilizando o Language Studio no Azure AI
 
-📌## Links importantes:
+📌 Links importantes:
 
 - [Explore Speech Studio](https://aka.ms/ai900-speech)
 - [Analyze text with Language Studio](https://aka.ms/ai900-text-analysis)
